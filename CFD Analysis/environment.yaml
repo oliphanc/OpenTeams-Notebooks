@@ -1,0 +1,12 @@
+﻿name: CFD_Analysis
+channels:
+  - defaults
+dependencies:
+  - conda=4.13.0
+  - bokeh=2.4.2
+  - python=3.9
+  - numpy=1.22.3
+  - pandas=1.4.2
+  - jupyterlab=3.3.2
+  - panel=0.13.0
+  - holoviews=1.14.8
